@@ -14,6 +14,6 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   <strong>
     #1
   </strong>
-  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%230%20-%20EL%20FAMOSO%20FIZZ%20BUZZ%20%5BF%C3%A1cil%5D"><code>EL LENGUAJE HACKER</code></a>
+  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%231%20-%20EL%20LENGUAJE%20HACKER"><code>EL LENGUAJE HACKER</code></a>
 </li>
 
