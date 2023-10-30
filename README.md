@@ -15,5 +15,11 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
     #1
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%231%20-%20EL%20LENGUAJE%20HACKER"><code>EL LENGUAJE HACKER</code></a>
+</li><li>
+  <strong>
+    #2
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%232%20-%20EL%20PARTIDO%20DE%20TENIS"><code>EL PARTIDO DE TENIS</code></a>
 </li>
+
 
