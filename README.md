@@ -33,5 +33,11 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/RETO%20%234%20-%20PRIMO%2C%20FIBONACCI%20Y%20PAR"><code>PRIMO, FIBONACCI Y PAR</code></a>
 </li>
+<li>
+  <strong>
+    #5
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%235%20-%20%C2%A1HOLA%20MUNDO!"><code>¡HOLA MUNDO!</code></a>
+</li>
 
 
