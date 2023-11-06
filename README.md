@@ -39,5 +39,11 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%235%20-%20%C2%A1HOLA%20MUNDO!"><code>¡HOLA MUNDO!</code></a>
 </li>
+<li>
+  <strong>
+    #6
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%236%20-%20PIEDRA%2C%20PAPEL%2C%20TIJERA%2C%20LAGARTO%2C%20SPOCK"><code>PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK</code></a>
+</li>
 
 
