@@ -51,5 +51,11 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%237%20-%20EL%20SOMBRERO%20SELECCIONADOR"><code>EL SOMBRERO SELECCIONADOR</code></a>
 </li>
+<li>
+  <strong>
+    #8
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%238%20-%20EL%20GENERADOR%20PSEUDOALEATORIO"><code>EL GENERADOR PSEUDOALEATORIO</code></a>
+</li>
 
 
