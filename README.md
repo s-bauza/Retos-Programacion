@@ -57,5 +57,11 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%238%20-%20EL%20GENERADOR%20PSEUDOALEATORIO"><code>EL GENERADOR PSEUDOALEATORIO</code></a>
 </li>
+<li>
+  <strong>
+    #9
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%239%20-%20HETEROGRAMA%2C%20ISOGRAMA%20y%20PANGRAMA%20(2)"><code>HETEROGRAMA, ISOGRAMA y PANGRAMA</code></a>
+</li>
 
 
