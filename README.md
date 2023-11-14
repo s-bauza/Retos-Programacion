@@ -61,7 +61,7 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   <strong>
     #9
   </strong>
-  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%239%20-%20HETEROGRAMA%2C%20ISOGRAMA%20y%20PANGRAMA%20(2)"><code>HETEROGRAMA, ISOGRAMA y PANGRAMA</code></a>
+  <a href="https://github.com/s-bauza/Retos-Programacion-2023/tree/main/Retos/Reto%20%239%20-%20HETEROGRAMA%2C%20ISOGRAMA%20y%20PANGRAMA"><code>HETEROGRAMA, ISOGRAMA y PANGRAMA</code></a>
 </li>
 
 
