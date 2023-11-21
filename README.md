@@ -75,6 +75,12 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2311%20-%20URL%20PARAMS"><code>URL PARAMS</code></a>
 </li>
+<li>
+  <strong>
+    #12
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2312%20-%20VIERNES%2013"><code>VIERNES 13</code></a>
+</li>
 
 
 
