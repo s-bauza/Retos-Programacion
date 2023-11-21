@@ -12,7 +12,6 @@ public class Viernes13 {
     }
 
     static boolean auxMesViernes13(int mes, int año) {
-        // Algoritmo de Zeller
         Calendar calendar = new Calendar.Builder().setDate(año, mes, 13).build();
         if (calendar.get(Calendar.DAY_OF_WEEK) == Calendar.FRIDAY) {
             return true;
