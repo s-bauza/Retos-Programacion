@@ -81,6 +81,12 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2312%20-%20VIERNES%2013"><code>VIERNES 13</code></a>
 </li>
+<li>
+  <strong>
+    #13
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2313%20-%20ADIVINA%20LA%20PALABRA"><code>ADIVINA LA PALABRA</code></a>
+</li>
 
 
 
