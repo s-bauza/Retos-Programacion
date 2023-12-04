@@ -87,6 +87,12 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2313%20-%20ADIVINA%20LA%20PALABRA"><code>ADIVINA LA PALABRA</code></a>
 </li>
+<li>
+  <strong>
+    #14
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2314%20-%20OCTAL%20Y%20HEXADECIMAL"><code>OCTAL Y HEXADECIMAL</code></a>
+</li>
 
 
 
