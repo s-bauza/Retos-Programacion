@@ -99,6 +99,12 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2315%20-%20AUREBESH"><code>AUREBESH</code></a>
 </li>
+<li>
+  <strong>
+    #16
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2316%20-%20LA%20ESCALERA"><code>LA ESCALERA</code></a>
+</li>
 
 
 
