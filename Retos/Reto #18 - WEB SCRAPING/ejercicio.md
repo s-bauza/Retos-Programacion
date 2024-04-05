@@ -1,15 +1,11 @@
 /*
- * El día 128 del año celebramos en la comunidad el "Hola Mundo day"
- * Vamos a hacer "web scraping" sobre su sitio web: https://holamundo.day
+ * Sobre este ejercicio se hara sobre una pagina web de anime 
+ * Vamos a hacer "web scraping" sobre su sitio web: https://www3.animeflv.net/
  *
- * Crea un programa que se conecte a la web del evento e imprima únicamente la agenda de eventos
- * del día 8. Mostrando hora e información de cada uno.
- * Ejemplo: "16:00 | Bienvenida"
+ * Crea un programa que se conecte a la web y saque del perfil los animes favoritos y su correspondiente imagen de todas las paginas
+ * Ejemplo Naruto | /naruto.jpg
+ * 
  *
- * Se permite utilizar librerías que nos faciliten esta tarea.
+ * Se permite utilizar librerías que nos faciliten esta tarea. Ejemplo (Beatiful Soup)
  *
- */
-
- /*
- Sobre este ejercicio se hara sobre una pagina web de anime 
  */

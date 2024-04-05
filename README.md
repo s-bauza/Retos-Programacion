@@ -111,6 +111,12 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2317%20-%20GIT%20Y%20GITHUB"><code>GIY Y GITHUB</code></a>
 </li>
+<li>
+  <strong>
+    #18
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2318%20-%20WEB%20SCRAPING"><code>WEB SCRAPING</code></a>
+</li>
 
 
 
