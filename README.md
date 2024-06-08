@@ -1,4 +1,4 @@
-# Retos-Programacion-2023
+# Retos-Programacion
 
 Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dejo el link a continuacion: https://retosdeprogramacion.com/semanales2023
 
@@ -117,6 +117,11 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2318%20-%20WEB%20SCRAPING"><code>WEB SCRAPING</code></a>
 </li>
-
+<li>
+  <strong>
+    #19
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2319%20-%20AN%C3%81LISIS%20DE%20TEXTO"><code>ANÁLISIS DE TEXTO</code></a>
+</li>
 
 
