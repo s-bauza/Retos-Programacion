@@ -129,5 +129,10 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   </strong>
   <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2320%20-%20LA%20TRIFUERZA"><code>LA TRIFUERZA</code></a>
 </li>
-
+<li>
+  <strong>
+    #21
+  </strong>
+  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2321%20-%20N%C3%9AMEROS%20PRIMOS%20GEMELOS"><code>NÚMEROS PRIMOS GEMELOS</code></a>
+</li>
 
