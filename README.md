@@ -127,7 +127,7 @@ Dedicare tiempo a realizar los retos de programacion propuestos por mouredev dej
   <strong>
     #20
   </strong>
-  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2319%20-%20AN%C3%81LISIS%20DE%20TEXTO"><code>LA TRIFUERZA</code></a>
+  <a href="https://github.com/s-bauza/Retos-Programacion/tree/main/Retos/Reto%20%2320%20-%20LA%20TRIFUERZA"><code>LA TRIFUERZA</code></a>
 </li>
 
 
