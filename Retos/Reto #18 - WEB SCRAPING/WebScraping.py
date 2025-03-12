@@ -2,14 +2,16 @@ import time
 from bs4 import BeautifulSoup
 import requests
 
+i=1  #pagina de la lista de animes favoritos
+
 start_time = time.time()  # tiempo de ejecucion del programa
 
 anime_already_seen = []   #lista para guardar los animes
 anime_favorite_image_link = []  #lista para guardar los links de las imagenes de los animes
 
-for i in range(1,12):   #bucle para recorrer las paginas de la lista de animes favoritos solo llega hasta la pagina 9 es una prueba
+while(True):   #bucle para recorrer las paginas de la lista de animes favoritos solo llega hasta la pagina 9 es una prueba
     
-    # print(f'Page: {i}') #comprobar la pagina en la que estoy
+    print(f'Page: {i}') #comprobar la pagina en la que estoy
     
     html_text = requests.get(f'https://www3.animeflv.net/perfil/Cordico/favoritos?page={i}').text #pagina a la que quiero acceder
 
@@ -21,7 +23,10 @@ for i in range(1,12):   #bucle para recorrer las paginas de la lista de animes f
     anime_favorite_name = [anime.text for anime in anime_favorite] #guardo los titulos en una lista
     
     if anime_favorite_name == []:
+        i=0
         break
+    else:
+        i+=1
     # print()
     for favorite in anime_favorite_name:    #imprimo los titulos
         anime_already_seen.append(favorite)
@@ -39,6 +44,6 @@ for i in range(1,12):   #bucle para recorrer las paginas de la lista de animes f
 
 
 for anime,img in zip(anime_already_seen,anime_favorite_image_link) :    #imprimo la lista de animes
-    print (f"{anime} https://www3.animeflv.net/{img}")
+    print (f"{anime};https://www3.animeflv.net/{img}")
 
 print("Time taken: %s seconds" % (time.time() - start_time)) #imprimo el tiempo que tarda en ejecutarse el programa
