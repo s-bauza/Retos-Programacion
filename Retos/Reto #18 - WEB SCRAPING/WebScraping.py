@@ -23,7 +23,7 @@ while(True):   #bucle para recorrer las paginas de la lista de animes favoritos 
     anime_favorite_name = [anime.text for anime in anime_favorite] #guardo los titulos en una lista
     
     if anime_favorite_name == []:
-        i=0
+        i=1
         break
     else:
         i+=1
