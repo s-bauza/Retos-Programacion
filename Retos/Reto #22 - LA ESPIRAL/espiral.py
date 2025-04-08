@@ -11,12 +11,10 @@ def espiral(n):
         aux3 -= 1
     else:
         aux3 -= 3
-    while aux < n-1:            
+    while aux <= n-1:            
             print('║'*(n-(aux+1))+'╚'+'═'*(aux2-aux3)+'╝'+'║'*(n-(aux+1)))
             aux3 -= 2
             aux += 1
-    if n != 1:
-        print('╚'+'═'*(n-2)+'╝')
     
 # Always  n > 0
 espiral(1)
